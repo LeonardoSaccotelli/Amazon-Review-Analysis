@@ -24,7 +24,7 @@ Now you have to run the commands in folder ```Mongo-Db-Shell-Command``` to clean
 You can find these commands in the following files:
 ````
 RemoveUnusedField.js
-CreateIndex.js.
+CreateIndex.js
 ConvertStringDateToDate.js
 ````
 In the same folder there are different javascript files with different example query.
