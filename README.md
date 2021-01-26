@@ -2,8 +2,6 @@
 A simple Spring Boot application to test the use of NoSql database. We use MongoDb to store the data.
 The dataset contains product reviews from Amazon for Electronics category, including reviews spanning May 1996 - July 2018. 
 Two approaches have been proposed to analyze the data. The first approach is to run queries directly from the MongoDB shell. In the second approach we have developed a Spring Boot Application that accesses the database and returns the desired information.
-Project developed during the Database Design with New Generation Models course @ [Department of Computer Science](https://www.uniba.it/ricerca/dipartimenti/informatica) @ [University of Bari "Aldo Moro"](http://www.uniba.it/)
-under the supervision of dr. [Nicola Fanizzi](http://lacam.di.uniba.it:8000/people/nicola.html).
 
 ## Prerequisites
 
